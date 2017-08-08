@@ -12,15 +12,19 @@ import org.soData.model.DoubanModel;
 import org.soData.model.DownloadPic;
 import org.soData.pojo.LinkContent;
 import org.soData.pojo.SOURL;
+import org.soData.view.DownloadPicture;
 
 public class Main {
 	public static void main(String[] args){
+		DownloadPic downloadPic = new DownloadPic();
+		File f = new File("E:\\csexe\\12.jpg");
 		try {
-			DownloadPic.getImages("http://img1.gamersky.com/image2017/07/20170722_zl_91_5/gamersky_01origin_01_20177222110E50.jpg", new File("E:\\er.jpg"));
+			downloadPic.getImages("http://cache3.onlyimg.com/pics/2017080717/56865.jpg", f);
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		//new DownloadPicture();
 	}
 	private static void te() {
 		DoubanModel ds = new DoubanModel("https://movie.douban.com/subject/27068480/comments",

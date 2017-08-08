@@ -8,10 +8,10 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 public class DownloadPic {
-
+	
 	public static void getImages(String urlPath,File fileName) throws Exception{
-        URL url = new URL(urlPath);//：获取的路径
-        //:http协议连接对象
+        URL url = new URL(urlPath);//锛氳幏鍙栫殑璺緞
+        //:http鍗忚杩炴帴瀵硅薄
         HttpURLConnection conn = (HttpURLConnection) url.openConnection();
         conn.setRequestMethod("GET");
         conn.setReadTimeout(6 * 10000);
@@ -21,13 +21,14 @@ public class DownloadPic {
             if(data.length>(1024*10)){
                 FileOutputStream outputStream = new FileOutputStream(fileName);
                 outputStream.write(data);
-                System.err.println("图片下载成功");
+                System.err.println("鍥剧墖涓嬭浇鎴愬姛");
                 outputStream.close();
             }
         }
          
     }
 	public static byte[] readStream(InputStream inputStream) throws Exception{
+		System.out.println(inputStream.available());
         ByteArrayOutputStream outputStream = new ByteArrayOutputStream();
         byte[] buffer = new byte[1024];
         int len = -1;
