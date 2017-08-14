@@ -14,6 +14,7 @@ public class DownloadPic {
         //:http协议连接对象
         HttpURLConnection conn = (HttpURLConnection) url.openConnection();
         conn.setRequestMethod("GET");
+        
         conn.setReadTimeout(6 * 10000);
         if (conn.getResponseCode() <10000){
             InputStream inputStream = conn.getInputStream();

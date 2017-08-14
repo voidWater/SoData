@@ -73,7 +73,10 @@ public class CrawlPicService {
         {  
             //
         	
-            String linkHref = link.attr("src");  
+    		String linkHref = null;
+          	if((linkHref = link.attr("src")).equals("")){
+          		linkHref = link.attr("data-original");
+          	}
             String linkText = link.text();  
 
             linkData = new LinkContent();  

@@ -15,6 +15,7 @@ import javax.swing.JTextField;
 
 import org.soData.model.CrawlPicService;
 import org.soData.model.DownloadPic;
+import org.soData.model.JdownloadPic;
 import org.soData.pojo.LinkContent;
 import org.soData.pojo.SOURL;
 
@@ -32,7 +33,7 @@ public class DownloadPicture extends JFrame implements ActionListener{
 		super("图片批量下载");
 		Container c = this.getContentPane();
 		button = new JButton("开始");
-		text  = new JTextField("http://www.1122je.com/tupianqu/katong/248259.html",30);
+		text  = new JTextField("http://www.mmtt33.link/fbuqae_590096.htm",30);
 		p.add(text);p.add(button);
 		button.addActionListener(this);
 		jsp = new JScrollPane(area);
@@ -50,9 +51,11 @@ public class DownloadPicture extends JFrame implements ActionListener{
 			url.setResultTagName("img");
 			url.setType(SOURL.SELECTION);
 			links = CrawlPicService.CrawlPage(url);
-			for(LinkContent l:links){
-				area.append(l.getLinkHref()+"\n");
-			}
+			System.out.println(links.size());
+//			for(LinkContent l:links){
+//				
+//				area.append(l.getLinkHref()+"\n");
+//			}
 			if(links!=null){
 				download();
 			}
@@ -60,17 +63,19 @@ public class DownloadPicture extends JFrame implements ActionListener{
 	}
 	private void download() {
 		// TODO Auto-generated method stub
-		int i = 1;
-		for(LinkContent l:links){
-			File f = new File("E:\\csexe\\"+i+".jpg");
-			i++;
+//		int i = 1;
+//		for(LinkContent l:links){
+//			if(i>5)break;
+//			String f = new String("E:\\csexe\\"+0+".jpg");
+//			i++;
+//			LinkContent l = links.get(0);
 			try {
-				downloadPic.getImages(l.getLinkHref(), f);
+				JdownloadPic.download(links);
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-		}
+//		}
 	}
 
 

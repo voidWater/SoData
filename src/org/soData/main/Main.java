@@ -10,21 +10,22 @@ import java.util.List;
 import org.soData.model.CrawlService;
 import org.soData.model.DoubanModel;
 import org.soData.model.DownloadPic;
+import org.soData.model.JdownloadPic;
 import org.soData.pojo.LinkContent;
 import org.soData.pojo.SOURL;
 import org.soData.view.DownloadPicture;
 
 public class Main {
 	public static void main(String[] args){
-		DownloadPic downloadPic = new DownloadPic();
-		File f = new File("E:\\csexe\\12.jpg");
-		try {
-			downloadPic.getImages("http://cache3.onlyimg.com/pics/2017080717/56865.jpg", f);
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		//new DownloadPicture();
+//		DownloadPic downloadPic = new DownloadPic();
+//		String f = new String("E:\\csexe\\12.jpg");
+//		try {
+//			JdownloadPic.download("http://i.imagseur.com/uploads/2017-08/13/37db2afb2374f49613bfee11d653dfbf.jpg", f);
+//		} catch (Exception e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
+		new DownloadPicture();
 	}
 	private static void te() {
 		DoubanModel ds = new DoubanModel("https://movie.douban.com/subject/27068480/comments",
@@ -51,7 +52,7 @@ public class Main {
 	      }
 	      System.out.println();
 	 }
-			private static void sss() {
+	private static void sss() {
 				SOURL url = new SOURL(  
 		                "https://www.douban.com/people/wutong666/",  
 		        new String[] {}, new String[] {},  
