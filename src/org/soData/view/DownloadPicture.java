@@ -33,7 +33,7 @@ public class DownloadPicture extends JFrame implements ActionListener{
 		super("图片批量下载");
 		Container c = this.getContentPane();
 		button = new JButton("开始");
-		text  = new JTextField("http://www.mmtt33.link/fbuqae_590096.htm",30);
+		text  = new JTextField("http://www.mmtt33.link/fbuqae_589688.htm",30);
 		p.add(text);p.add(button);
 		button.addActionListener(this);
 		jsp = new JScrollPane(area);
@@ -63,19 +63,12 @@ public class DownloadPicture extends JFrame implements ActionListener{
 	}
 	private void download() {
 		// TODO Auto-generated method stub
-//		int i = 1;
-//		for(LinkContent l:links){
-//			if(i>5)break;
-//			String f = new String("E:\\csexe\\"+0+".jpg");
-//			i++;
-//			LinkContent l = links.get(0);
 			try {
 				JdownloadPic.download(links);
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-//		}
 	}
 
 
