@@ -39,20 +39,26 @@ public class CrawlPicService {
         }
         //解析html
         Document doc = null;
-        try{
-	         switch (requestType)  
-	         {  
-	         case SOURL.GET:  
-	             doc = con.timeout(100000).get();  
-	             break;  
-	         case SOURL.POST:  
-	             doc = con.timeout(100000).post();  
-	             break;  
-	         }  
-        }catch(IOException e){
-       	 e.printStackTrace();
-        }
+//        try{
+//	         switch (requestType)  
+//	         {  
+//	         case SOURL.GET:  
+//	             doc = con.timeout(100000).get();  
+//	             break;  
+//	         case SOURL.POST:  
+//	             doc = con.timeout(100000).post();  
+//	             break;  
+//	         }  
+//        }catch(IOException e){
+//       	 e.printStackTrace();
+//        }
         //过滤
+        try {
+			doc = con.timeout(100000).get();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
         Elements results = new Elements(); 
         switch (type)  
         {  

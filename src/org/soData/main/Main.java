@@ -18,6 +18,7 @@ import org.soData.view.DownloadPicture;
 public class Main {
 	public static void main(String[] args){
 
+		//new DownloadPicture();
 		new DownloadPicture();
 	}
 	

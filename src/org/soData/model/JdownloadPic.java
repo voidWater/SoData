@@ -21,17 +21,17 @@ public class JdownloadPic implements Runnable{
 	/**
 	 * @param args
 	 */
-	public static void download(List<LinkContent> list){
+	public static void downloadByList(List<LinkContent> list,String path){
 		int i = 1;
 		for(LinkContent l : list){
 			//if(i>10)break;
-			System.out.println(l.getLinkHref());
+			System.out.println(i+":"+l.getLinkHref());
 			
 			try {
-				download(l.getLinkHref(),"E:\\csexe\\np3\\"+i+".jpg");
+				download(l.getLinkHref(),path+"\\"+i+".jpg");
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
-				map.put("E:\\csexe\\np\\"+i+".jpg", l.getLinkHref());
+				map.put(path+"\\"+i+".jpg", l.getLinkHref());
 				e.printStackTrace();
 			}
 			i++;
@@ -75,7 +75,8 @@ public class JdownloadPic implements Runnable{
 		FileOutputStream out;
 		try {
 			resultImageResponse = Jsoup.connect(args)
-					.userAgent("Opera/9.80 (Android 2.3.4; Linux; Opera Mobi/build-1107180945; U; en-GB) Presto/2.8.149 Version/11.10")
+					.userAgent("Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.64 Safari/537.31")
+					//.userAgent("Opera/9.80 (Android 2.3.4; Linux; Opera Mobi/build-1107180945; U; en-GB) Presto/2.8.149 Version/11.10")
 					.ignoreContentType(true)
 					.execute();
 			out = (new FileOutputStream(new java.io.File(file)));
