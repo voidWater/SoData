@@ -1,4 +1,4 @@
-package org.soData.model;
+package org.soData.service;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -10,15 +10,13 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 import org.soData.pojo.Enity;
-import org.soData.pojo.LinkContent;
 import org.soData.pojo.Rule;
-import org.soData.pojo.SOURL;
 import org.soData.utils.TextUtil;
 
-public class Comm_CrawlService extends BaseCrawl {
+public class CrawlService_comm extends BaseCrawl implements IModel{
 //	Document doc = Jsoup.connect("http://www.oschina.net/")   
 //	 .data("query", "Java")   // 设置参数 
-//	 .userAgent("I �� m jsoup") // 设置 User-Agent   
+//	 .userAgent("") // 设置 User-Agent   
 //	 .cookie("auth", "token") // 设置cookie   
 //	 .timeout(3000)           // 相应时间 
 //	 .post().get();           //使用get或post  

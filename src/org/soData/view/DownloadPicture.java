@@ -5,7 +5,6 @@ import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.File;
-import java.io.IOException;
 import java.util.List;
 
 import javax.swing.JButton;
@@ -16,17 +15,21 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
-import org.soData.model.CrawlPicService;
-import org.soData.model.DownloadPic;
-import org.soData.model.JdownloadPic;
-import org.soData.pojo.LinkContent;
-import org.soData.pojo.SOURL;
+import org.soData.pojo.Enity;
+import org.soData.pojo.Rule;
 
-public class DownloadPicture extends JFrame implements ActionListener{
-	SOURL url = new SOURL();
-	List<LinkContent> links;
-	CrawlPicService service = new CrawlPicService();
-	//DownloadPic downloadPic = new DownloadPic();
+
+import org.soData.service.CrawlService_pic;
+import org.soData.service.DownloadPic_jsoup;
+
+public class DownloadPicture extends JFrame implements ActionListener,Runnable{
+	//SOURL url = new SOURL();
+	Rule rule = new Rule();
+	List<Enity> links;
+	String path;
+	Thread thread = new Thread(this);
+	CrawlService_pic service = new CrawlService_pic();
+	
 	JButton button;
 	JTextField text;
 	
@@ -63,14 +66,16 @@ public class DownloadPicture extends JFrame implements ActionListener{
 	public void actionPerformed(ActionEvent e) {
 		// TODO Auto-generated method stub
 		if(e.getSource()==button){
-			url.setUrl(text.getText());
-			url.setResultTagName("img");
-			url.setType(SOURL.SELECTION);
-			url.setRequestMoethod(SOURL.GET);
-			links = CrawlPicService.CrawlPage(url);
-			System.out.println(links.size());
-			if(links!=null&&fileText.getText()!=null){
-				download(links,fileText.getText());
+			rule.setUrl(text.getText());
+			rule.setSelectModel("img");
+			rule.setType(Rule.SELECTION);
+			rule.setRequestMoethod(Rule.GET);
+			links = service.crawl(rule);
+			path = fileText.getText();
+			area.append(links.size()+"\n");
+			if(links!=null&&path!=null){
+				//download(links,fileText.getText());
+				new Thread(this).start();
 			}else{
 				System.out.println("url and path is null");
 			}
@@ -90,17 +95,22 @@ public class DownloadPicture extends JFrame implements ActionListener{
         	}
 		}
 	}
-	private void download(List<LinkContent> links,String path) {
+	@Override
+	public void run() {
 		// TODO Auto-generated method stub
-			File  file = new File(path);
-			if(!file.exists()){
-				file.mkdirs();
-			}
-			try {
-				JdownloadPic.downloadByList(links,path);
-			} catch (Exception e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			}
+		area.append("begin\n");
+		File  file = new File(path);
+		if(!file.exists()){
+			file.mkdirs();
+		}
+		int i= file.list().length;
+		try {
+			DownloadPic_jsoup.downloadByLists(links,path,area,i);
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		//thread.stop();
+		area.append("done"+"\n");
 	}
 }

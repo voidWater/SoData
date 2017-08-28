@@ -1,4 +1,4 @@
-package org.soData.model;
+package org.soData.service;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
@@ -7,7 +7,7 @@ import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-public class DownloadPic {
+public class DownloadPic_http {
 	
 	public static void getImages(String urlPath,File fileName) throws Exception{
         URL url = new URL(urlPath);//：获取的路径

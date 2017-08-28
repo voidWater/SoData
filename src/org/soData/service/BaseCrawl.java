@@ -1,4 +1,4 @@
-package org.soData.model;
+package org.soData.service;
 
 import java.util.List;
 

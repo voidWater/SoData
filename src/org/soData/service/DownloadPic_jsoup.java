@@ -1,9 +1,9 @@
-package org.soData.model;
+package org.soData.service;
 
-import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.net.UnknownHostException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
@@ -11,36 +11,17 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
+import javax.swing.JTextArea;
+
 import org.jsoup.Connection.Response;
 import org.jsoup.Jsoup;
-import org.soData.pojo.LinkContent;
+import org.soData.pojo.Enity;
 
 
-public class JdownloadPic implements Runnable{
+
+public class DownloadPic_jsoup{
 	public static Map<String,String> map= new HashMap<String,String>();
-	/**
-	 * @param args
-	 */
-	public static void downloadByList(List<LinkContent> list,String path){
-		int i = 1;
-		for(LinkContent l : list){
-			//if(i>10)break;
-			System.out.println(i+":"+l.getLinkHref());
-			
-			try {
-				download(l.getLinkHref(),path+"\\"+i+".jpg");
-			} catch (IOException e) {
-				// TODO Auto-generated catch block
-				map.put(path+"\\"+i+".jpg", l.getLinkHref());
-				e.printStackTrace();
-			}
-			i++;
-		}
-		
-		if(!map.isEmpty()){
-			round();
-		}
-	} 
+
 	public static void round(){
 		System.out.println("round:"+map.size());
 		List<String> list = new ArrayList<String>();
@@ -65,6 +46,8 @@ public class JdownloadPic implements Runnable{
 		}
 		if(map.size()!=0){
 			round();
+		}else{
+			return;
 		}
 	}
 	public static  void download(String args,String file) throws IOException {
@@ -90,10 +73,37 @@ public class JdownloadPic implements Runnable{
 		
 	}
 	
-	@Override
-	public void run() {
+
+	public static void downloadByLists(List<Enity> list, String path, JTextArea area, int i) {
 		// TODO Auto-generated method stub
 		
+		if(i>1){
+			i = 1+i;
+		}else{
+			i = 1;
+		}
+		String result;
+		for(Enity l : list){
+			//System.out.println(i+":"+l.getHref());
+			area.append(i+":"+l.getHref()+"\n");
+			try {
+				download(l.getHref(),path+"\\"+i+".jpg");
+			} catch(UnknownHostException e){
+				area.append("链接无法访问"+"\n");
+				return;
+			}catch (IOException e) {
+				// TODO Auto-generated catch block
+				map.put(path+"\\"+i+".jpg", l.getHref());
+				area.append("put:"+i+"\n");
+				//e.printStackTrace();
+			}
+			i++;
+		}
+		
+		if(!map.isEmpty()){
+			area.append("round:"+map.size()+"\n");
+			round();
+		}
 	}
 
 }
