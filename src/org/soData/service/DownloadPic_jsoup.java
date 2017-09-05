@@ -22,8 +22,9 @@ import org.soData.pojo.Enity;
 public class DownloadPic_jsoup{
 	public static Map<String,String> map= new HashMap<String,String>();
 
-	public static void round(){
+	public static void round(JTextArea area){
 		System.out.println("round:"+map.size());
+		area.append("round:"+map.size()+"\n");
 		List<String> list = new ArrayList<String>();
 		Set s = map.keySet();
 		Iterator i = s.iterator();
@@ -45,7 +46,7 @@ public class DownloadPic_jsoup{
 			map.remove(i1);
 		}
 		if(map.size()!=0){
-			round();
+			round(area);
 		}else{
 			return;
 		}
@@ -89,8 +90,9 @@ public class DownloadPic_jsoup{
 			try {
 				download(l.getHref(),path+"\\"+i+".jpg");
 			} catch(UnknownHostException e){
-				area.append("链接无法访问"+"\n");
-				return;
+				map.put(path+"\\"+i+".jpg", l.getHref());
+				area.append("put:"+i+"\n");
+				//return;
 			}catch (IOException e) {
 				// TODO Auto-generated catch block
 				map.put(path+"\\"+i+".jpg", l.getHref());
@@ -102,7 +104,7 @@ public class DownloadPic_jsoup{
 		
 		if(!map.isEmpty()){
 			area.append("round:"+map.size()+"\n");
-			round();
+			round(area);
 		}
 	}
 

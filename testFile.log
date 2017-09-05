@@ -1,1 +1,711 @@
-2017-08-28 17:05:30.812 [main] INFO  org.soData.main.Main - begin
+2017-09-01 14:52:19.640 [main] INFO  org.soData.main.Main - begin
+2017-09-01 14:53:16.000 [main] INFO  org.soData.main.Main - begin
+2017-09-05 10:09:04.984 [main] INFO  org.soData.main.Main - begin
+2017-09-05 10:14:45.140 [main] INFO  org.soData.main.Main - begin
+2017-09-05 10:16:01.015 [main] INFO  org.soData.main.Main - begin
+2017-09-05 10:34:44.953 [main] INFO  org.soData.main.Main - begin
+2017-09-05 10:35:50.531 [main] INFO  org.soData.main.Main - begin
+2017-09-05 10:36:23.453 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 10:36:23.453 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 10:37:08.671 [main] INFO  org.soData.main.Main - begin
+2017-09-05 10:39:47.703 [main] INFO  org.soData.main.Main - begin
+2017-09-05 10:43:00.390 [main] INFO  org.soData.main.Main - begin
+2017-09-05 10:51:23.359 [main] INFO  org.soData.main.Main - begin
+2017-09-05 10:51:24.203 [main] INFO  org.soData.main.Main - begin
+2017-09-05 10:52:01.890 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 10:52:01.890 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 10:52:56.953 [main] INFO  org.soData.main.Main - begin
+2017-09-05 10:53:03.468 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12.htm
+2017-09-05 10:53:06.093 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_2.htm
+2017-09-05 10:53:11.390 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_3.htm
+2017-09-05 10:53:12.937 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_4.htm
+2017-09-05 10:53:17.343 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_5.htm
+2017-09-05 10:53:18.765 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_6.htm
+2017-09-05 10:53:19.906 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_7.htm
+2017-09-05 10:53:21.156 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_8.htm
+2017-09-05 10:53:22.500 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_9.htm
+2017-09-05 10:53:23.625 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_10.htm
+2017-09-05 10:53:25.609 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_11.htm
+2017-09-05 10:53:28.890 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_12.htm
+2017-09-05 10:53:32.828 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_13.htm
+2017-09-05 10:53:33.953 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_14.htm
+2017-09-05 10:53:40.031 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_15.htm
+2017-09-05 10:53:43.046 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_16.htm
+2017-09-05 10:53:45.671 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_17.htm
+2017-09-05 10:54:09.140 [main] INFO  org.soData.main.Main - begin
+2017-09-05 10:54:21.093 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12.htm
+2017-09-05 10:54:23.625 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_2.htm
+2017-09-05 10:54:23.890 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_3.htm
+2017-09-05 10:54:25.265 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_4.htm
+2017-09-05 10:54:25.718 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_5.htm
+2017-09-05 10:54:25.953 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_6.htm
+2017-09-05 10:54:26.203 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_7.htm
+2017-09-05 10:54:27.781 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_8.htm
+2017-09-05 10:54:29.484 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_9.htm
+2017-09-05 10:54:29.953 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_10.htm
+2017-09-05 10:54:30.406 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_11.htm
+2017-09-05 10:54:31.078 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_12.htm
+2017-09-05 10:54:31.765 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_13.htm
+2017-09-05 10:54:33.500 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_14.htm
+2017-09-05 10:54:34.640 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_15.htm
+2017-09-05 10:54:39.781 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_16.htm
+2017-09-05 10:54:43.968 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_17.htm
+2017-09-05 10:54:45.093 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_18.htm
+2017-09-05 10:54:46.000 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_19.htm
+2017-09-05 10:54:46.906 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_20.htm
+2017-09-05 10:54:50.281 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_21.htm
+2017-09-05 10:54:55.062 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_22.htm
+2017-09-05 10:54:58.500 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_23.htm
+2017-09-05 10:55:00.562 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_24.htm
+2017-09-05 10:55:05.859 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_25.htm
+2017-09-05 10:55:08.000 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_26.htm
+2017-09-05 10:55:09.625 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_27.htm
+2017-09-05 10:55:14.671 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_28.htm
+2017-09-05 10:55:16.984 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_29.htm
+2017-09-05 10:55:19.984 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 10:55:19.984 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 10:57:50.828 [main] INFO  org.soData.main.Main - begin
+2017-09-05 10:58:05.187 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12.htm
+2017-09-05 10:58:06.109 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_2.htm
+2017-09-05 10:58:06.359 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_3.htm
+2017-09-05 10:58:15.859 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 10:58:15.859 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 10:58:49.468 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12.htm
+2017-09-05 10:59:13.812 [main] INFO  org.soData.main.Main - begin
+2017-09-05 10:59:18.234 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12.htm
+2017-09-05 10:59:21.187 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_2.htm
+2017-09-05 10:59:21.656 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_3.htm
+2017-09-05 10:59:22.578 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_4.htm
+2017-09-05 10:59:23.031 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_5.htm
+2017-09-05 10:59:23.484 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_6.htm
+2017-09-05 10:59:25.656 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_7.htm
+2017-09-05 10:59:26.109 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_8.htm
+2017-09-05 10:59:27.265 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_9.htm
+2017-09-05 10:59:28.625 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_10.htm
+2017-09-05 10:59:29.765 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_11.htm
+2017-09-05 10:59:31.359 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_12.htm
+2017-09-05 10:59:32.484 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_13.htm
+2017-09-05 10:59:36.921 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_14.htm
+2017-09-05 11:01:31.078 [main] INFO  org.soData.main.Main - begin
+2017-09-05 11:01:35.734 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12.htm
+2017-09-05 11:01:41.546 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:01:41.546 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:01:49.312 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12.htm
+2017-09-05 11:01:52.734 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:01:52.734 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:01:55.859 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12.htm
+2017-09-05 11:02:29.500 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_2.htm
+2017-09-05 11:02:41.843 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_3.htm
+2017-09-05 11:04:23.437 [main] INFO  org.soData.main.Main - begin
+2017-09-05 11:04:35.593 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_365.htm
+2017-09-05 11:04:36.640 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_366.htm
+2017-09-05 11:04:39.296 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_367.htm
+2017-09-05 11:04:41.812 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_368.htm
+2017-09-05 11:04:42.421 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_369.htm
+2017-09-05 11:04:43.031 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_370.htm
+2017-09-05 11:04:43.640 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_371.htm
+2017-09-05 11:04:46.640 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:04:46.640 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:07:20.031 [main] INFO  org.soData.main.Main - begin
+2017-09-05 11:07:39.031 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12.htm
+2017-09-05 11:07:40.093 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_2.htm
+2017-09-05 11:07:40.781 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_3.htm
+2017-09-05 11:07:43.046 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_4.htm
+2017-09-05 11:07:43.734 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_5.htm
+2017-09-05 11:07:48.328 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_6.htm
+2017-09-05 11:07:53.156 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_7.htm
+2017-09-05 11:07:55.171 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_8.htm
+2017-09-05 11:07:58.187 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_9.htm
+2017-09-05 11:08:01.187 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:08:01.187 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:08:26.453 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_9.htm
+2017-09-05 11:08:31.484 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_10.htm
+2017-09-05 11:08:32.609 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_11.htm
+2017-09-05 11:08:36.453 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_12.htm
+2017-09-05 11:08:41.718 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_13.htm
+2017-09-05 11:08:44.796 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_14.htm
+2017-09-05 11:08:48.531 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_15.htm
+2017-09-05 11:08:51.187 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_16.htm
+2017-09-05 11:08:53.046 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_17.htm
+2017-09-05 11:08:54.625 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_18.htm
+2017-09-05 11:08:56.625 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_19.htm
+2017-09-05 11:09:01.515 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:09:01.515 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:10:24.890 [main] INFO  org.soData.main.Main - begin
+2017-09-05 11:10:42.890 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_19.htm
+2017-09-05 11:10:45.281 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_20.htm
+2017-09-05 11:10:45.765 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_21.htm
+2017-09-05 11:10:48.765 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:10:48.765 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:10:48.765 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_21.htm
+2017-09-05 11:10:50.625 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_22.htm
+2017-09-05 11:10:57.468 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_23.htm
+2017-09-05 11:11:01.828 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_24.htm
+2017-09-05 11:11:03.750 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_25.htm
+2017-09-05 11:11:06.593 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_26.htm
+2017-09-05 11:11:09.781 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_27.htm
+2017-09-05 11:11:13.984 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_28.htm
+2017-09-05 11:11:15.750 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_29.htm
+2017-09-05 11:11:20.125 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:11:20.125 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:11:20.125 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_29.htm
+2017-09-05 11:11:21.875 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_30.htm
+2017-09-05 11:11:25.250 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:11:25.250 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:11:25.250 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_30.htm
+2017-09-05 11:11:31.250 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:11:31.250 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:11:31.250 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_30.htm
+2017-09-05 11:11:31.875 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_31.htm
+2017-09-05 11:11:33.468 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_32.htm
+2017-09-05 11:11:34.031 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_33.htm
+2017-09-05 11:11:34.796 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_34.htm
+2017-09-05 11:11:35.375 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_35.htm
+2017-09-05 11:11:36.546 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_36.htm
+2017-09-05 11:11:37.328 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_37.htm
+2017-09-05 11:11:37.890 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_38.htm
+2017-09-05 11:11:38.468 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_39.htm
+2017-09-05 11:11:39.031 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_40.htm
+2017-09-05 11:11:40.875 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_41.htm
+2017-09-05 11:11:44.296 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_42.htm
+2017-09-05 11:11:46.093 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_43.htm
+2017-09-05 11:11:47.406 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_44.htm
+2017-09-05 11:11:48.203 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_45.htm
+2017-09-05 11:11:50.218 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_46.htm
+2017-09-05 11:11:51.140 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_47.htm
+2017-09-05 11:11:51.703 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_48.htm
+2017-09-05 11:11:57.140 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:11:57.140 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:11:57.140 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_48.htm
+2017-09-05 11:11:57.906 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_49.htm
+2017-09-05 11:11:58.687 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_50.htm
+2017-09-05 11:11:59.468 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_51.htm
+2017-09-05 11:12:00.250 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_52.htm
+2017-09-05 11:12:07.234 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_53.htm
+2017-09-05 11:12:10.750 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_54.htm
+2017-09-05 11:12:12.281 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_55.htm
+2017-09-05 11:12:13.437 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_56.htm
+2017-09-05 11:12:14.359 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_57.htm
+2017-09-05 11:12:14.921 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_58.htm
+2017-09-05 11:12:16.375 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_59.htm
+2017-09-05 11:12:18.296 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_60.htm
+2017-09-05 11:12:20.609 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_61.htm
+2017-09-05 11:12:23.156 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_62.htm
+2017-09-05 11:12:24.343 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_63.htm
+2017-09-05 11:12:25.734 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_64.htm
+2017-09-05 11:12:31.250 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_65.htm
+2017-09-05 11:12:33.437 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_66.htm
+2017-09-05 11:12:36.296 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_67.htm
+2017-09-05 11:12:41.937 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_68.htm
+2017-09-05 11:12:43.671 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_69.htm
+2017-09-05 11:12:44.750 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_70.htm
+2017-09-05 11:12:46.343 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_71.htm
+2017-09-05 11:12:47.546 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_72.htm
+2017-09-05 11:12:49.875 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_73.htm
+2017-09-05 11:12:51.703 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_74.htm
+2017-09-05 11:12:52.906 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_75.htm
+2017-09-05 11:12:53.687 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_76.htm
+2017-09-05 11:12:54.265 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_77.htm
+2017-09-05 11:12:54.828 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_78.htm
+2017-09-05 11:12:55.406 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_79.htm
+2017-09-05 11:12:56.125 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_80.htm
+2017-09-05 11:12:57.546 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_81.htm
+2017-09-05 11:13:02.921 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:13:02.921 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:13:02.921 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_81.htm
+2017-09-05 11:13:03.625 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_82.htm
+2017-09-05 11:13:04.453 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_83.htm
+2017-09-05 11:13:07.828 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:13:07.828 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:13:07.828 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_83.htm
+2017-09-05 11:13:08.890 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_84.htm
+2017-09-05 11:13:09.453 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_85.htm
+2017-09-05 11:13:11.093 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_86.htm
+2017-09-05 11:13:11.656 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_87.htm
+2017-09-05 11:13:12.453 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_88.htm
+2017-09-05 11:13:15.453 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:13:15.453 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:13:15.453 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_88.htm
+2017-09-05 11:13:18.453 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - connect timed out
+2017-09-05 11:13:18.453 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:13:18.453 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_88.htm
+2017-09-05 11:13:19.093 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_89.htm
+2017-09-05 11:13:21.546 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_90.htm
+2017-09-05 11:13:28.625 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_91.htm
+2017-09-05 11:13:32.609 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:13:32.609 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:13:32.609 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_91.htm
+2017-09-05 11:13:37.921 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_92.htm
+2017-09-05 11:13:38.875 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_93.htm
+2017-09-05 11:13:42.625 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_94.htm
+2017-09-05 11:13:43.781 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_95.htm
+2017-09-05 11:13:47.000 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_96.htm
+2017-09-05 11:13:48.546 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_97.htm
+2017-09-05 11:13:50.078 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_98.htm
+2017-09-05 11:13:51.625 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_99.htm
+2017-09-05 11:13:54.421 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_100.htm
+2017-09-05 11:13:56.453 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_101.htm
+2017-09-05 11:14:02.156 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:14:02.156 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:14:02.156 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_101.htm
+2017-09-05 11:14:05.156 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - connect timed out
+2017-09-05 11:14:05.156 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:14:05.156 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_101.htm
+2017-09-05 11:14:08.156 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - connect timed out
+2017-09-05 11:14:08.156 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:14:08.156 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_101.htm
+2017-09-05 11:14:11.156 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - connect timed out
+2017-09-05 11:14:11.156 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:14:11.156 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_101.htm
+2017-09-05 11:14:14.156 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - connect timed out
+2017-09-05 11:14:14.156 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:14:14.156 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_101.htm
+2017-09-05 11:14:18.343 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:14:18.343 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:14:18.343 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_101.htm
+2017-09-05 11:14:20.406 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_102.htm
+2017-09-05 11:14:21.171 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_103.htm
+2017-09-05 11:14:21.750 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_104.htm
+2017-09-05 11:14:22.312 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_105.htm
+2017-09-05 11:14:22.890 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_106.htm
+2017-09-05 11:14:23.468 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_107.htm
+2017-09-05 11:14:25.234 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_108.htm
+2017-09-05 11:14:30.468 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_109.htm
+2017-09-05 11:14:32.765 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_110.htm
+2017-09-05 11:14:35.859 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_111.htm
+2017-09-05 11:14:38.296 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_112.htm
+2017-09-05 11:14:41.593 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_113.htm
+2017-09-05 11:14:43.718 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_114.htm
+2017-09-05 11:14:46.062 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_115.htm
+2017-09-05 11:14:47.390 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_116.htm
+2017-09-05 11:14:48.906 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_117.htm
+2017-09-05 11:14:50.781 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_118.htm
+2017-09-05 11:14:53.781 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:14:53.781 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:14:53.781 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_118.htm
+2017-09-05 11:14:57.250 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:14:57.250 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:14:57.250 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_118.htm
+2017-09-05 11:14:57.890 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_119.htm
+2017-09-05 11:14:58.468 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_120.htm
+2017-09-05 11:14:59.046 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_121.htm
+2017-09-05 11:14:59.625 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_122.htm
+2017-09-05 11:15:00.203 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_123.htm
+2017-09-05 11:15:00.562 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_124.htm
+2017-09-05 11:15:01.703 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_125.htm
+2017-09-05 11:15:04.703 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:15:04.703 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:15:04.718 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_125.htm
+2017-09-05 11:15:08.718 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_126.htm
+2017-09-05 11:15:11.875 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_127.htm
+2017-09-05 11:15:19.828 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:15:19.828 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:15:19.828 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_127.htm
+2017-09-05 11:15:21.890 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_128.htm
+2017-09-05 11:15:22.484 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_129.htm
+2017-09-05 11:15:23.312 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_130.htm
+2017-09-05 11:15:23.906 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_131.htm
+2017-09-05 11:15:24.515 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_132.htm
+2017-09-05 11:15:27.500 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_133.htm
+2017-09-05 11:15:29.468 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_134.htm
+2017-09-05 11:15:30.281 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_135.htm
+2017-09-05 11:15:31.109 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_136.htm
+2017-09-05 11:15:31.953 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_137.htm
+2017-09-05 11:15:34.484 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_138.htm
+2017-09-05 11:15:35.312 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_139.htm
+2017-09-05 11:15:42.140 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_140.htm
+2017-09-05 11:15:44.562 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_141.htm
+2017-09-05 11:15:47.046 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_142.htm
+2017-09-05 11:15:49.203 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_143.htm
+2017-09-05 11:15:50.078 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_144.htm
+2017-09-05 11:15:50.687 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_145.htm
+2017-09-05 11:15:52.796 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_146.htm
+2017-09-05 11:15:58.484 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:15:58.484 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:15:58.484 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_146.htm
+2017-09-05 11:15:59.390 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_147.htm
+2017-09-05 11:16:05.328 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:16:05.328 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:16:05.328 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_147.htm
+2017-09-05 11:16:08.203 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_148.htm
+2017-09-05 11:16:09.671 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_149.htm
+2017-09-05 11:16:10.843 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_150.htm
+2017-09-05 11:16:14.468 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_151.htm
+2017-09-05 11:16:18.625 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_152.htm
+2017-09-05 11:16:23.687 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:16:23.687 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:16:23.687 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_152.htm
+2017-09-05 11:16:30.484 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:16:30.484 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:16:30.484 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_152.htm
+2017-09-05 11:16:31.390 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_153.htm
+2017-09-05 11:16:32.000 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_154.htm
+2017-09-05 11:16:35.000 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:16:35.000 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:16:35.000 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_154.htm
+2017-09-05 11:16:38.250 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:16:38.250 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:16:38.250 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_154.htm
+2017-09-05 11:16:39.656 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_155.htm
+2017-09-05 11:16:41.921 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_156.htm
+2017-09-05 11:16:44.093 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_157.htm
+2017-09-05 11:16:45.890 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_158.htm
+2017-09-05 11:16:55.031 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_159.htm
+2017-09-05 11:16:58.281 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_160.htm
+2017-09-05 11:17:06.046 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:17:06.046 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:17:06.046 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_160.htm
+2017-09-05 11:17:06.734 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_161.htm
+2017-09-05 11:17:07.328 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_162.htm
+2017-09-05 11:17:07.953 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_163.htm
+2017-09-05 11:17:10.953 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:17:10.953 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:17:10.953 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_163.htm
+2017-09-05 11:17:14.265 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:17:14.265 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:17:14.281 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_163.htm
+2017-09-05 11:17:15.281 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_164.htm
+2017-09-05 11:17:16.078 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_165.htm
+2017-09-05 11:17:17.187 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_166.htm
+2017-09-05 11:17:22.281 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_167.htm
+2017-09-05 11:17:26.500 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_168.htm
+2017-09-05 11:17:28.843 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_169.htm
+2017-09-05 11:17:33.312 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_170.htm
+2017-09-05 11:17:36.765 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_171.htm
+2017-09-05 11:17:41.984 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_172.htm
+2017-09-05 11:17:45.468 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:17:45.468 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:17:45.468 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_172.htm
+2017-09-05 11:17:49.046 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_173.htm
+2017-09-05 11:17:50.031 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_174.htm
+2017-09-05 11:17:50.843 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_175.htm
+2017-09-05 11:17:51.765 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_176.htm
+2017-09-05 11:17:54.765 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:17:54.765 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:17:54.765 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_176.htm
+2017-09-05 11:17:55.765 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_177.htm
+2017-09-05 11:17:56.562 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_178.htm
+2017-09-05 11:17:57.359 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_179.htm
+2017-09-05 11:18:00.359 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:18:00.359 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:18:00.359 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_179.htm
+2017-09-05 11:18:03.703 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:18:03.703 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:18:03.703 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_179.htm
+2017-09-05 11:18:06.421 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_180.htm
+2017-09-05 11:18:07.234 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_181.htm
+2017-09-05 11:18:10.703 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:18:10.703 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:18:10.703 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_181.htm
+2017-09-05 11:18:12.625 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_182.htm
+2017-09-05 11:18:13.234 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_183.htm
+2017-09-05 11:18:14.968 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_184.htm
+2017-09-05 11:18:17.203 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_185.htm
+2017-09-05 11:18:19.515 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_186.htm
+2017-09-05 11:18:21.281 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_187.htm
+2017-09-05 11:18:25.046 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_188.htm
+2017-09-05 11:18:29.359 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_189.htm
+2017-09-05 11:18:32.453 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_190.htm
+2017-09-05 11:18:34.031 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_191.htm
+2017-09-05 11:18:35.468 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_192.htm
+2017-09-05 11:18:36.265 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_193.htm
+2017-09-05 11:18:39.484 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_194.htm
+2017-09-05 11:18:44.390 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_195.htm
+2017-09-05 11:18:48.062 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_196.htm
+2017-09-05 11:18:51.609 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_197.htm
+2017-09-05 11:18:54.687 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_198.htm
+2017-09-05 11:18:59.500 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:18:59.500 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:18:59.500 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_198.htm
+2017-09-05 11:19:00.484 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_199.htm
+2017-09-05 11:19:03.484 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:19:03.484 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:19:03.484 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_199.htm
+2017-09-05 11:19:06.484 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - connect timed out
+2017-09-05 11:19:06.484 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:19:06.484 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_199.htm
+2017-09-05 11:19:07.593 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_200.htm
+2017-09-05 11:19:10.171 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_201.htm
+2017-09-05 11:19:11.250 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_202.htm
+2017-09-05 11:19:12.031 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_203.htm
+2017-09-05 11:19:14.812 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_204.htm
+2017-09-05 11:19:18.234 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_205.htm
+2017-09-05 11:19:23.687 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_206.htm
+2017-09-05 11:19:25.187 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_207.htm
+2017-09-05 11:19:27.203 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_208.htm
+2017-09-05 11:19:31.406 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_209.htm
+2017-09-05 11:19:33.375 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_210.htm
+2017-09-05 11:19:39.125 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_211.htm
+2017-09-05 11:19:42.906 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_212.htm
+2017-09-05 11:19:48.515 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_213.htm
+2017-09-05 11:19:50.250 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_214.htm
+2017-09-05 11:19:56.437 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:19:56.437 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:19:56.437 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_214.htm
+2017-09-05 11:19:59.437 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - connect timed out
+2017-09-05 11:19:59.437 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:19:59.437 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_214.htm
+2017-09-05 11:20:02.437 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - connect timed out
+2017-09-05 11:20:02.437 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:20:02.437 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_214.htm
+2017-09-05 11:20:07.375 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:20:07.375 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:20:07.375 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_214.htm
+2017-09-05 11:20:08.750 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_215.htm
+2017-09-05 11:20:09.546 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_216.htm
+2017-09-05 11:20:10.671 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_217.htm
+2017-09-05 11:20:13.781 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_218.htm
+2017-09-05 11:20:16.000 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_219.htm
+2017-09-05 11:20:19.468 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:20:19.468 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:20:19.468 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_219.htm
+2017-09-05 11:20:21.515 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_220.htm
+2017-09-05 11:20:22.109 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_221.htm
+2017-09-05 11:20:22.703 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_222.htm
+2017-09-05 11:20:23.312 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_223.htm
+2017-09-05 11:20:23.828 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_224.htm
+2017-09-05 11:20:24.343 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_225.htm
+2017-09-05 11:20:25.656 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_226.htm
+2017-09-05 11:20:26.265 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_227.htm
+2017-09-05 11:20:27.531 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_228.htm
+2017-09-05 11:20:28.390 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_229.htm
+2017-09-05 11:20:29.015 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_230.htm
+2017-09-05 11:20:30.953 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_231.htm
+2017-09-05 11:20:34.812 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_232.htm
+2017-09-05 11:20:38.296 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_233.htm
+2017-09-05 11:20:39.921 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_234.htm
+2017-09-05 11:20:41.156 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_235.htm
+2017-09-05 11:20:42.406 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_236.htm
+2017-09-05 11:20:47.046 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:20:47.046 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:20:47.046 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_236.htm
+2017-09-05 11:20:53.062 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:20:53.062 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:20:53.062 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_236.htm
+2017-09-05 11:20:54.312 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_237.htm
+2017-09-05 11:20:57.312 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:20:57.312 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:20:57.312 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_237.htm
+2017-09-05 11:20:58.375 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_238.htm
+2017-09-05 11:20:59.453 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_239.htm
+2017-09-05 11:21:00.484 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_240.htm
+2017-09-05 11:21:01.546 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_241.htm
+2017-09-05 11:21:02.218 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_242.htm
+2017-09-05 11:21:03.171 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_243.htm
+2017-09-05 11:21:04.296 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_244.htm
+2017-09-05 11:21:05.812 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_245.htm
+2017-09-05 11:21:06.890 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_246.htm
+2017-09-05 11:21:07.968 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_247.htm
+2017-09-05 11:21:14.812 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_248.htm
+2017-09-05 11:21:23.343 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:21:23.343 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:21:23.343 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_248.htm
+2017-09-05 11:21:26.343 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - connect timed out
+2017-09-05 11:21:26.343 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:21:26.343 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_248.htm
+2017-09-05 11:21:27.031 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_249.htm
+2017-09-05 11:21:27.625 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_250.htm
+2017-09-05 11:21:28.234 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_251.htm
+2017-09-05 11:21:28.968 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_252.htm
+2017-09-05 11:21:29.343 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_253.htm
+2017-09-05 11:21:32.031 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_254.htm
+2017-09-05 11:21:32.640 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_255.htm
+2017-09-05 11:21:33.375 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_256.htm
+2017-09-05 11:21:34.703 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_257.htm
+2017-09-05 11:21:35.296 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_258.htm
+2017-09-05 11:21:35.890 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_259.htm
+2017-09-05 11:21:36.515 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_260.htm
+2017-09-05 11:21:37.875 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_261.htm
+2017-09-05 11:21:40.375 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_262.htm
+2017-09-05 11:21:45.125 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_263.htm
+2017-09-05 11:21:54.718 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:21:54.718 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:21:54.718 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_263.htm
+2017-09-05 11:21:58.109 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_264.htm
+2017-09-05 11:22:01.109 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:22:01.109 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:22:01.125 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_264.htm
+2017-09-05 11:22:02.031 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_265.htm
+2017-09-05 11:22:07.906 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:22:07.906 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:22:07.906 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_265.htm
+2017-09-05 11:22:13.984 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_266.htm
+2017-09-05 11:22:15.843 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_267.htm
+2017-09-05 11:22:17.640 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_268.htm
+2017-09-05 11:22:20.625 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_269.htm
+2017-09-05 11:22:23.578 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_270.htm
+2017-09-05 11:22:28.312 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_271.htm
+2017-09-05 11:22:29.765 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_272.htm
+2017-09-05 11:22:33.140 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:22:33.140 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:22:33.140 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_272.htm
+2017-09-05 11:22:35.031 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_273.htm
+2017-09-05 11:22:35.906 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_274.htm
+2017-09-05 11:22:36.734 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_275.htm
+2017-09-05 11:22:37.515 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_276.htm
+2017-09-05 11:22:38.765 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_277.htm
+2017-09-05 11:22:40.031 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_278.htm
+2017-09-05 11:22:41.734 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_279.htm
+2017-09-05 11:22:44.750 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:22:44.750 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:22:44.750 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_279.htm
+2017-09-05 11:22:45.453 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_280.htm
+2017-09-05 11:22:46.062 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_281.htm
+2017-09-05 11:22:47.796 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_282.htm
+2017-09-05 11:22:49.953 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_283.htm
+2017-09-05 11:22:50.781 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_284.htm
+2017-09-05 11:22:52.625 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_285.htm
+2017-09-05 11:22:57.078 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_286.htm
+2017-09-05 11:22:58.906 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_287.htm
+2017-09-05 11:23:00.843 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_288.htm
+2017-09-05 11:23:01.890 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_289.htm
+2017-09-05 11:23:03.671 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_290.htm
+2017-09-05 11:23:04.875 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_291.htm
+2017-09-05 11:23:06.968 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_292.htm
+2017-09-05 11:23:09.875 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_293.htm
+2017-09-05 11:23:11.265 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_294.htm
+2017-09-05 11:23:14.171 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_295.htm
+2017-09-05 11:23:17.171 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:23:17.171 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:23:17.171 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_295.htm
+2017-09-05 11:23:20.406 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:23:20.406 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:23:20.406 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_295.htm
+2017-09-05 11:23:21.109 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_296.htm
+2017-09-05 11:23:21.718 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_297.htm
+2017-09-05 11:23:22.312 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_298.htm
+2017-09-05 11:23:23.765 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_299.htm
+2017-09-05 11:23:24.156 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_300.htm
+2017-09-05 11:23:25.812 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_301.htm
+2017-09-05 11:23:28.812 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:23:28.812 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:23:28.812 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_301.htm
+2017-09-05 11:23:29.500 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_302.htm
+2017-09-05 11:23:30.109 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_303.htm
+2017-09-05 11:23:30.859 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_304.htm
+2017-09-05 11:23:34.218 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_305.htm
+2017-09-05 11:23:34.828 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_306.htm
+2017-09-05 11:23:35.437 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_307.htm
+2017-09-05 11:23:38.046 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_308.htm
+2017-09-05 11:23:39.312 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_309.htm
+2017-09-05 11:23:40.796 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_310.htm
+2017-09-05 11:23:43.718 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_311.htm
+2017-09-05 11:23:51.125 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_312.htm
+2017-09-05 11:23:53.781 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_313.htm
+2017-09-05 11:23:55.796 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_314.htm
+2017-09-05 11:23:57.640 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_315.htm
+2017-09-05 11:24:00.046 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_316.htm
+2017-09-05 11:24:01.234 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_317.htm
+2017-09-05 11:24:04.281 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_318.htm
+2017-09-05 11:24:06.625 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_319.htm
+2017-09-05 11:24:11.093 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_320.htm
+2017-09-05 11:24:12.468 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_321.htm
+2017-09-05 11:24:15.750 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_322.htm
+2017-09-05 11:24:18.078 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_323.htm
+2017-09-05 11:24:25.718 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_324.htm
+2017-09-05 11:24:27.562 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_325.htm
+2017-09-05 11:24:29.015 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_326.htm
+2017-09-05 11:24:31.078 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_327.htm
+2017-09-05 11:24:38.000 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:24:38.000 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:24:38.000 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_327.htm
+2017-09-05 11:24:42.250 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_328.htm
+2017-09-05 11:24:46.203 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_329.htm
+2017-09-05 11:24:52.953 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:24:52.953 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:24:52.953 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_329.htm
+2017-09-05 11:24:56.281 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:24:56.281 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:24:56.281 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_329.htm
+2017-09-05 11:24:59.281 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - connect timed out
+2017-09-05 11:24:59.281 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:24:59.281 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_329.htm
+2017-09-05 11:25:02.859 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_330.htm
+2017-09-05 11:25:03.671 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_331.htm
+2017-09-05 11:25:04.281 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_332.htm
+2017-09-05 11:25:05.359 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_333.htm
+2017-09-05 11:25:06.187 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_334.htm
+2017-09-05 11:25:08.765 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_335.htm
+2017-09-05 11:25:09.578 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_336.htm
+2017-09-05 11:25:12.468 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_337.htm
+2017-09-05 11:25:14.234 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_338.htm
+2017-09-05 11:25:15.984 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_339.htm
+2017-09-05 11:25:20.031 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_340.htm
+2017-09-05 11:25:21.703 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_341.htm
+2017-09-05 11:25:24.718 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_342.htm
+2017-09-05 11:25:26.156 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_343.htm
+2017-09-05 11:25:28.078 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_344.htm
+2017-09-05 11:25:32.000 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:25:32.000 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:25:32.000 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_344.htm
+2017-09-05 11:25:35.015 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - connect timed out
+2017-09-05 11:25:35.015 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:25:35.015 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_344.htm
+2017-09-05 11:25:35.703 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_345.htm
+2017-09-05 11:25:36.984 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_346.htm
+2017-09-05 11:25:37.578 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_347.htm
+2017-09-05 11:25:38.312 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_348.htm
+2017-09-05 11:25:38.687 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_349.htm
+2017-09-05 11:25:39.968 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_350.htm
+2017-09-05 11:25:41.375 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_351.htm
+2017-09-05 11:25:41.984 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_352.htm
+2017-09-05 11:25:42.812 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_353.htm
+2017-09-05 11:25:44.078 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_354.htm
+2017-09-05 11:25:46.281 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_355.htm
+2017-09-05 11:25:47.781 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_356.htm
+2017-09-05 11:25:48.593 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_357.htm
+2017-09-05 11:25:50.343 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_358.htm
+2017-09-05 11:25:51.171 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_359.htm
+2017-09-05 11:25:53.515 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_360.htm
+2017-09-05 11:25:56.890 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_361.htm
+2017-09-05 11:25:58.312 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_362.htm
+2017-09-05 11:25:59.218 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_363.htm
+2017-09-05 11:26:00.046 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_364.htm
+2017-09-05 11:26:00.593 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_365.htm
+2017-09-05 11:26:01.390 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_366.htm
+2017-09-05 11:26:02.484 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_367.htm
+2017-09-05 11:26:03.125 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_368.htm
+2017-09-05 11:26:04.328 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_369.htm
+2017-09-05 11:26:04.796 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_370.htm
+2017-09-05 11:26:05.265 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_371.htm
+2017-09-05 11:26:09.250 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 11:26:09.250 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 11:26:09.250 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/vgifw_12_371.htm
+2017-09-05 11:31:23.625 [main] INFO  org.soData.main.Main - begin
+2017-09-05 11:32:11.468 [main] INFO  org.soData.main.Main - begin
+2017-09-05 11:32:54.593 [main] INFO  org.soData.main.Main - begin
+2017-09-05 11:33:12.078 [main] INFO  org.soData.main.Main - begin
+2017-09-05 11:34:12.781 [main] INFO  org.soData.main.Main - begin
+2017-09-05 11:35:10.906 [main] INFO  org.soData.main.Main - begin
+2017-09-05 11:45:05.187 [main] INFO  org.soData.main.Main - begin
+2017-09-05 11:54:58.109 [main] INFO  org.soData.main.Main - begin
+2017-09-05 11:57:45.750 [main] INFO  org.soData.main.Main - begin
+2017-09-05 12:00:14.875 [main] INFO  org.soData.main.Main - begin
+2017-09-05 13:29:45.281 [main] INFO  org.soData.main.Main - begin
+2017-09-05 13:32:24.390 [main] INFO  org.soData.main.Main - begin
+2017-09-05 13:33:30.875 [main] INFO  org.soData.main.Main - begin
+2017-09-05 13:34:50.203 [main] INFO  org.soData.main.Main - begin
+2017-09-05 14:32:25.500 [main] INFO  org.soData.main.Main - begin
+2017-09-05 14:45:05.781 [main] INFO  org.soData.main.Main - begin
+2017-09-05 15:03:22.562 [main] INFO  org.soData.main.Main - begin
+2017-09-05 15:03:23.468 [main] INFO  org.soData.main.Main - begin
+2017-09-05 15:03:38.781 [main] INFO  org.soData.main.Main - begin
+2017-09-05 15:06:34.953 [main] INFO  org.soData.main.Main - begin
+2017-09-05 15:15:01.656 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/fbuqae_392330.htm
+2017-09-05 15:15:04.671 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - connect timed out
+2017-09-05 15:15:04.671 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 15:15:04.671 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/fbuqae_392330.htm
+2017-09-05 15:15:13.171 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 15:15:13.171 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 15:15:13.171 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/fbuqae_392330.htm
+2017-09-05 15:15:16.406 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - Read timed out
+2017-09-05 15:15:16.406 [AWT-EventQueue-0] DEBUG o.soData.service.CrawlService_title - doc 为空
+2017-09-05 15:15:16.421 [AWT-EventQueue-0] INFO  o.soData.service.CrawlService_title - http://www.mmtt33.link/fbuqae_392330.htm
+2017-09-05 15:16:38.187 [main] INFO  org.soData.main.Main - begin
+2017-09-05 15:32:16.203 [main] INFO  org.soData.main.Main - begin
+2017-09-05 16:08:09.156 [main] INFO  org.soData.main.Main - begin
+2017-09-05 16:43:15.609 [main] INFO  org.soData.main.Main - begin
+2017-09-05 17:25:44.062 [main] INFO  org.soData.main.Main - begin
+2017-09-05 17:38:09.171 [main] INFO  org.soData.main.Main - begin
+2017-09-05 17:40:15.015 [main] INFO  org.soData.main.Main - begin
+2017-09-05 17:46:49.468 [main] INFO  org.soData.main.Main - begin
