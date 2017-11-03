@@ -29,7 +29,13 @@ public class CrawlService_pic extends BaseCrawl implements IModel{
         int type = rule.getType();  
         int requestType = rule.getRequestMoethod();
         //设置链接
-        Connection con = Jsoup.connect(url);
+        Connection con = Jsoup.connect(url);		
+        con.header("Accept", "text/html");
+        con.header("Accept-Charset", "utf-8");
+        con.header("Accept-Encoding", "gzip");
+        con.header("Accept-Language", "en-US,en");
+        con.userAgent("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22");
+
         //设置参数
         if (params != null)  
         {  

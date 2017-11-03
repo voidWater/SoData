@@ -30,7 +30,14 @@ public class CrawlService_title extends BaseCrawl implements IModel{
 		validatesourl(rule);
 		List<Enity>enitys = new ArrayList<Enity>();
 		Connection conn = Jsoup.connect(rule.getUrl());
+		
+		conn.header("Accept", "text/html");
+		conn.header("Accept-Charset", "utf-8");
+		conn.header("Accept-Encoding", "gzip");
+		conn.header("Accept-Language", "en-US,en");
+		conn.userAgent("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22");
 		Document doc = null;
+		System.out.println(rule.getUrl());
 		try{
 			switch(rule.getRequestMoethod()){
 				case Rule.GET: 
@@ -75,7 +82,7 @@ public class CrawlService_title extends BaseCrawl implements IModel{
 	        }
 	        
 	        writeFile(path,enitys);
-	        Elements links = doc.getElementsByClass("next");
+	        Elements links = doc.getElementsByClass("page");
 	        String linkHref = null;
 	        //装载page
 	        for (Element result : links)  
@@ -84,11 +91,14 @@ public class CrawlService_title extends BaseCrawl implements IModel{
 
 	            for (Element e : link)  
 	            {  
-	            	linkHref = link.attr("href");  
+	            	if(e.text().equals("下一页")){
+	            		linkHref = e.attr("href"); 
+	            	} 
 	            }  
 	        }
+	        
 	        if(linkHref!=null){
-	        	rule.setUrl("http://www.mmtt33.link"+linkHref);
+	        	rule.setUrl("https://3344su.com"+linkHref);
 	        	writeTitle(rule,path);
 	        	
 	        }else{
@@ -96,7 +106,7 @@ public class CrawlService_title extends BaseCrawl implements IModel{
 	        }
 	        
 		}else{
-			log.debug("doc 为空");
+			log.debug("页面为空");
 			writeTitle( rule, path);
 		}
 		

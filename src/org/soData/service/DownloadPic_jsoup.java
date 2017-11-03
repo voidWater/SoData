@@ -14,6 +14,7 @@ import java.util.Set;
 import javax.swing.JTextArea;
 
 import org.jsoup.Connection.Response;
+import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.soData.pojo.Enity;
 
@@ -58,11 +59,24 @@ public class DownloadPic_jsoup{
 		// output here
 		FileOutputStream out;
 		try {
-			resultImageResponse = Jsoup.connect(args)
-					.userAgent("Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.64 Safari/537.31")
-					//.userAgent("Opera/9.80 (Android 2.3.4; Linux; Opera Mobi/build-1107180945; U; en-GB) Presto/2.8.149 Version/11.10")
-					.ignoreContentType(true)
-					.execute();
+//			resultImageResponse = Jsoup.connect(args)
+//					.userAgent("Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.64 Safari/537.31")
+//					//.userAgent("Opera/9.80 (Android 2.3.4; Linux; Opera Mobi/build-1107180945; U; en-GB) Presto/2.8.149 Version/11.10")
+//					.header("Accept", "text/html")
+//		.header("Accept-Charset", "utf-8")
+//		.header("Accept-Encoding", "gzip")
+//		.header("Accept-Language", "en-US,en")
+//					.ignoreContentType(true)
+//					.execute();
+			Connection conn = Jsoup.connect(args);
+			
+			conn.header("Accept", "text/html");
+			conn.header("Accept-Charset", "utf-8");
+			conn.header("Accept-Encoding", "gzip");
+			conn.header("Accept-Language", "en-US,en");
+			conn.userAgent("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22");
+			conn.ignoreContentType(true);
+			resultImageResponse = conn.execute();
 			out = (new FileOutputStream(new java.io.File(file)));
 			out.write(resultImageResponse.bodyAsBytes());           
 			// resultImageResponse.body() is where the image's contents are.
