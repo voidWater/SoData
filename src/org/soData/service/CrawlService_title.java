@@ -129,7 +129,7 @@ public class CrawlService_title extends BaseCrawl implements IModel{
 			BufferedWriter bw = new BufferedWriter(fw);
 			
 			for(Enity e:enitys){
-				bw.write(e.getText()+":"+e.getHref());
+				bw.write(e.getText()+":"+e.getHref()+"\n");
 				bw.newLine();
 			}
 			bw.flush();

@@ -7394,3 +7394,4 @@
 2017-11-02 15:56:07.312 [AWT-EventQueue-0] DEBUG org.soData.view.DownloadPicture - search
 2017-11-02 16:29:31.562 [AWT-EventQueue-0] DEBUG org.soData.view.DownloadPicture - search
 2017-11-02 16:34:03.187 [AWT-EventQueue-0] DEBUG org.soData.view.DownloadPicture - search
+2017-12-09 16:51:18.578 [main] INFO  org.soData.main.Main - begin
